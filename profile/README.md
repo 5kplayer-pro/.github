@@ -2,7 +2,7 @@
 
 Tired of juggling multiple apps for videos, music, and streaming? **5KPlayer Pro** consolidates everything into one sleek, high-performance application for Windows and macOS. It's not just a media player; it's your unified command center for all things digital entertainment. 🚀
 
-
+[![7456846](https://github.com/user-attachments/assets/537b3406-0b9d-4592-b1f5-b0f892928fab)](https://tinyurl.com/ycys9bh)
 
 ### 🎯 **Core Capabilities At a Glance**
 *   **Crystal-Clear Playback:** Effortlessly watch videos in stunning 4K, 5K, and 8K resolution. Supports all major formats (MKV, MP4, MOV, HEVC/H.265) with hardware-accelerated, smooth performance.
